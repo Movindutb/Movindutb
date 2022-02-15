@@ -3,8 +3,6 @@
 ![Profile views](https://gpvc.arturio.dev/Movindutb)  <a href="#"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
 <a href="http://movindu.ml">![contact](https://img.shields.io/badge/Visit%20Web-movindu.ml-red) </a>
 
-<img width="44%" align="right" alt="Github" src="https://github.com/Movindutb/Movindutb/raw/main/devcard.svg" />
-
 - 👨‍💻 I'm a web developer from Sri Lanka
 
 - 👩‍🎓 I’m currently studying at Colombo Ananda Collage
@@ -69,7 +67,3 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-##  My GitHub Stats
-
-<a href="https://github.com/Movindu-tb"><img src="https://github.com/Movindutb/Movindutb/raw/main/github-metrics.svg" alt="Metrics"></a>
