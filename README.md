@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi There I'm Movindu Bandara. 
+# Hi There I'm Movindu Bandara. 
 
 ![Profile views](https://gpvc.arturio.dev/Movindutb)  <a href="#"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
 <a href="http://movindu.ml">![contact](https://img.shields.io/badge/Visit%20Web-movindu.ml-red) </a>
