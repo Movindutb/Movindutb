@@ -48,7 +48,7 @@
         <code><img width="5%"  src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"></code>
                 <code><img width="5%"  src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg"></code>
         <code><img width="5%"  src="https://www.vectorlogo.zone/logos/flarum/flarum-icon.svg"></code>
-        
+                
 ## Softwares I Using
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
