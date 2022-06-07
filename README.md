@@ -46,7 +46,6 @@
         <code><img width="5%"  src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg"></code>
     <code><img width="5%"  src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
         <code><img width="5%"  src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"></code>
-                <code><img width="5%"  src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg"></code>
         <code><img width="5%"  src="https://www.vectorlogo.zone/logos/flarum/flarum-icon.svg"></code>
                 
 ## Softwares I Using
