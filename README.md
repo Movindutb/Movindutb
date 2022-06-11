@@ -72,3 +72,7 @@
 ## My GitHub Stats
 
 <img src="https://github.com/Movindutb/Movindutb/blob/main/github-metrics.svg" alt="Metrics">
+
+## Recent Listend
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qupi4m7yencnyxl7ilnbclk6km&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31qupi4m7yencnyxl7ilnbclk6km&redirect=true)
