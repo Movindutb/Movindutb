@@ -42,3 +42,5 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 5
