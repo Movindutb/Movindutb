@@ -71,4 +71,4 @@
 
 ## My GitHub Stats
 
-<img align="center" src="https://github.com/Movindutb/Movindutb/github-metrics.svg" alt="Metrics" width="400">
+<img src="https://github.com/Movindutb/Movindutb/blob/main/github-metrics.svg" alt="Metrics">
