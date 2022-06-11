@@ -44,3 +44,6 @@ jobs:
           plugin_people_types: followers, following
           plugin_discussions: yes
           plugin_discussions_categories_limit: 5
+          plugin_reactions: yes
+          plugin_reactions_details: percentage
+          plugin_reactions_display: absolute
