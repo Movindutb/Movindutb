@@ -20,7 +20,7 @@
 
 ##  Social  Media
 
-<img width="5%" href="#" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"></img>
+<img width="5%" href="#" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"></a>
 <img width="5%" href="#" src="https://www.vectorlogo.zone/logos/pinterest/pinterest-tile.svg"></img>
 <img width="5%" href="#" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></img>
 <img width="5%" href="#" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></img>
