@@ -20,12 +20,12 @@
 
 ##  Social  Media
 
-<img width="5%" href="#" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"></a>
-<img width="5%" href="#" src="https://www.vectorlogo.zone/logos/pinterest/pinterest-tile.svg"></img>
-<img width="5%" href="#" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></img>
-<img width="5%" href="#" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></img>
-<img width="5%" href="#" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg"></img>
-<img width="5%" href="#" src="https://www.vectorlogo.zone/logos/twitch/twitch-tile.svg"></img>
+<a href="https://www.instagram.com/itsmovindutb/"><img width="5%" href="#" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"></a>
+<a href="https://pin.it/5xz1CPV"><img width="5%" href="#" src="https://www.vectorlogo.zone/logos/pinterest/pinterest-tile.svg"></a>
+<a href="https://www.instagram.com/itsmovindutb/"><img width="5%" href="#" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>
+<a href="https://www.instagram.com/itsmovindutb/"><img width="5%" href="#" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></a>
+<a href="https://www.instagram.com/itsmovindutb/"><img width="5%" href="#" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg"></a>
+<a href="https://www.instagram.com/itsmovindutb/"><img width="5%" href="#" src="https://www.vectorlogo.zone/logos/twitch/twitch-tile.svg"></a>
 
 ## My Tools And Lang 
 
