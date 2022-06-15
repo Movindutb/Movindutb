@@ -48,6 +48,11 @@
     <code><img width="5%"  src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
         <code><img width="5%"  src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"></code>
         <code><img width="5%"  src="https://www.vectorlogo.zone/logos/flarum/flarum-icon.svg"></code>
+        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/gravatar/gravatar-icon.svg"></code>
+        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/ampproject/ampproject-icon.svg"></code>
+        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/producthunt/producthunt-icon.svg"></code>
+        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
                 
 ## Softwares I Using
 
