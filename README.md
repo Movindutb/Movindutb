@@ -82,3 +82,8 @@
 ## Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qupi4m7yencnyxl7ilnbclk6km&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31qupi4m7yencnyxl7ilnbclk6km&redirect=true)
+
+## Discord
+### My Discord Server
+
+![Discord Banner 2](https://discordapp.com/api/guilds/978527356652249089/widget.png?style=banner2)
