@@ -85,5 +85,3 @@
 
 ## Discord
 ### My Discord Servers
-
-![Discord Banner 2](https://discordapp.com/api/guilds/978527356652249089/widget.png?style=banner2)
