@@ -11,7 +11,7 @@
 
 - ✍ I’m currently learning HTML, CSS, JavaScript. PHP And Python
 
-- 💬 Ask me about anything. Contact me on <a href=mailto:slcoderyt@gmail.com>Email</a>
+- 💬 Ask me about anything. Contact me on <a href=mailto:me@movindu.codes>Email</a>
 
 - 👍 Follow me on Twitter:  <a href="https://twitter.com/MovinduBandara">MovinduBandara</a>
 
