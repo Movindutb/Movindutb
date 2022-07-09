@@ -1,7 +1,7 @@
 # Hi There I'm Movindu Bandara. 
 
 ![Profile views](https://gpvc.arturio.dev/Movindutb)  <a href="#"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
-<a href="http://movindu.ml">![contact](https://img.shields.io/badge/Visit%20Web-movindu.ml-red) </a>
+<a href="http://movindu.ml">![contact](https://img.shields.io/badge/Visit%20Web-movindu.codes-red) </a>
 
 <img width="44%" align="right" alt="Github" src="https://github.com/Movindutb/Movindutb/raw/main/devcard.svg" />
 
