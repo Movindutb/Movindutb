@@ -24,7 +24,7 @@
 <a href="https://pin.it/5xz1CPV"><img width="5%" href="#" src="https://www.vectorlogo.zone/logos/pinterest/pinterest-tile.svg"></a>
 <a href="https://twitter.com/MovinduBandara"><img width="5%" href="#" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>
 <a href="https://github.com/Movindutb"><img width="5%" href="#" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></a>
-<a href="https://discordapp.com/users/Knuckles#5504"><img width="5%" href="#" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg"></a>
+<a href="https://discordapp.com/users/EN-J0Y#5504"><img width="5%" href="#" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg"></a>
 <a href="https://www.twitch.tv/itsvenomtb"><img width="5%" href="#" src="https://www.vectorlogo.zone/logos/twitch/twitch-tile.svg"></a>
 <a href="https://open.spotify.com/user/31qupi4m7yencnyxl7ilnbclk6km"><img width="5%" href="#" src="https://www.vectorlogo.zone/logos/spotify/spotify-tile.svg"></a>
 
