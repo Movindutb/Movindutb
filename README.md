@@ -52,6 +52,8 @@
         <code><img width="5%"  src="https://www.vectorlogo.zone/logos/ampproject/ampproject-icon.svg"></code>
         <code><img width="5%"  src="https://www.vectorlogo.zone/logos/producthunt/producthunt-icon.svg"></code>
         <code><img width="5%"  src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
+        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg"></code>
+        <code><img width="5%"  src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"></code>
                 
 ## Softwares I Using
 
