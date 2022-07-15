@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play&size=32&color=C8C8C8&lines=Hi++There+I'm+Movindu+Bandara)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play&size=32&color=C8C8C8&lines=Hi+I'm+Movindu+Bandara.)](https://git.io/typing-svg)
 
 ![Profile views](https://gpvc.arturio.dev/Movindutb)  <a href="#"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
 <a href="http://movindu.ml">![contact](https://img.shields.io/badge/Visit%20Web-movindu.codes-red) </a>
