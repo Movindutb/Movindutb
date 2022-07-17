@@ -115,4 +115,5 @@
 
 ## Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qupi4m7yencnyxl7ilnbclk6km&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31qupi4m7yencnyxl7ilnbclk6km&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qupi4m7yencnyxl7ilnbclk6km&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31qupi4m7yencnyxl7ilnbclk6km&redirect=true) 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qupi4m7yencnyxl7ilnbclk6km&unique={true|1|on|yes})
