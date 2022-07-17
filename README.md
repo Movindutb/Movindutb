@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/Movindutb)
 <a href="#"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
 <a href="https://movindu.codes">![contact](https://img.shields.io/badge/Visit%20Web-movindu.codes-red) </a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMovindutb&count_bg=%239673DF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMovindutb&count_bg=%239673DF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](/)
 
 <img width="44%" align="right" alt="Github" src="https://github.com/Movindutb/Movindutb/raw/main/devcard.svg" />
 
