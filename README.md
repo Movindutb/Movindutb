@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play&size=32&color=C8C8C8&lines=Hi+I'm+Movindu+Bandara.)](https://mtbtypingsvg.herokuapp.com/)
 
-![Profile views](https://gpvc.arturio.dev/Movindutb)
 <a href="#"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
 <a href="https://movindu.codes">![contact](https://img.shields.io/badge/Visit%20Web-movindu.codes-red) </a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMovindutb&count_bg=%239673DF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/Movindutb)
@@ -9,11 +8,11 @@
 
 - 👨‍💻 I'm a web developer from Sri Lanka
 
-- 👩‍🎓 I’m currently studying at Colombo Ananda Collage
+- 👩‍🎓 I’m currently studying at Colombo Ananda College.
 
 - ✍ I’m currently learning HTML, CSS, JavaScript. PHP And Python
 
-- 💬 Ask me about anything. Contact me on <a href=mailto:me@movindu.codes>Email</a>
+- 💬 Ask me about anything. Contact me at <a href=mailto:me@movindu.codes>Email</a>
 
 - 👍 Follow me on Twitter:  <a href="https://twitter.com/MovinduBandara">MovinduBandara</a>
 
