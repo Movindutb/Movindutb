@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play&size=32&color=C8C8C8&lines=Hi+I'm+Movindu+Bandara.)](https://mtbtypingsvg.herokuapp.com/)
 
 <a href="#"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
-<a href="https://movindutb.github.io/">![contact](https://img.shields.io/badge/Visit%20Web-movindutb.github.io-light-blue) </a>
+<a href="https://movindutb.github.io/">![contact](https://img.shields.io/badge/Visit%20Web-movindutb.github.io-blue) </a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMovindutb&count_bg=%239673DF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/Movindutb)
 
 <img width="44%" align="right" alt="Github" src="https://github.com/Movindutb/Movindutb/raw/main/devcard.svg" />
